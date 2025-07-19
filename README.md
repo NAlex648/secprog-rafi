@@ -3,7 +3,6 @@
 **Nama:** Mohammad Rafi Imansyah  
 **NIM:** 2502006953  
 **Mata Kuliah:** Secure Programming (SP)  
-**Deskripsi Proyek:** Tugas individu membuat aplikasi PHP sederhana yang mengimplementasikan konsep keamanan dasar.
 
 ## 📋 Deskripsi Aplikasi
 
@@ -26,7 +25,7 @@ Aplikasi ini adalah **URL Shortener** berbasis PHP yang memungkinkan pengguna un
    ```
 3. Import database:
    - Buka **phpMyAdmin**.
-   - Buat database bernama `secprog`.
+   - Buat database bernama `url_shortener`.
    - Import file SQL yang disediakan (atau jalankan manual perintah SQL untuk membuat tabel `users` dan `urls`).
 4. Akses aplikasi melalui browser:
    ```
